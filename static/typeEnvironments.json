@@ -1,0 +1,22 @@
+{
+    "water": {
+        "name": "Вода",
+        "isLiquid": true,
+        "density": 998.2,
+        "densityUnit": "кг/м³",
+        "isWork": false,
+        "viscosity": 1.006e-6,
+        "viscosityUnit": "м²/с",
+        "isKinematic": true
+    },
+    "air": {
+        "name": "Воздух",
+        "isLiquid": false,
+        "density": 1.205,
+        "densityUnit": "кг/м³",
+        "isWork": false,
+        "viscosity": 15.06e-6,
+        "viscosityUnit": "м²/с",
+        "isKinematic": true
+    }
+}
